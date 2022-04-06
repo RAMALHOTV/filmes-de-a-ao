@@ -35,6 +35,24 @@
  <info>[B][COLOR red] SINOPSE:Colombia 1992. Aos 9 anos, Cataleya (Zoe Saldana) testemunha o assassinato dos seus pais. Ela consegue escapar do massacre e refugia-se nos Estados Unidos com Emilio, o seu tio gangster. 15 anos depois, ela trabalha para ele como assassina. O seu cartão de visita – uma orquídea desenhada no peito das vítimas – é uma mensagem para os assassinos dos seus pais. Cataleya está determinada a levar a sua vingança até ao fim, mesmo que isso signifique perder tudo o que ela ama.  [COLOR red][/COLOR][/B]</info>	
  </item> 
  <item> 
+ <title>[B][COLOR white]Infiltrado - [COLOR red]Lançamento[COLOR red](2021) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://abutretorrents.com/imagens/infiltrado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://abutretorrents.com/imagens/infiltrado-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Patrick Hill (Jason Statham), conhecido apenas como “H”, é um homem misterioso que trabalha para uma empresa de carros-fortes e movimenta grandes quantias de dinheiro pela cidade de Los Angeles. Quando, ao impedir um assalto, ele surpreende a todos com suas habilidades de combate, suas verdadeiras intenções começam a ser questionadas e um plano maior é revelado. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
+ <title>[B][COLOR white]O Alvo 2 - [COLOR red]Lançamento[COLOR red](2016) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAF3F20815EA54BBF1F84550211BB2063FC094AD$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2BFC9A7B2ED95A5CD215CC050D4C55B0F5EC1D67$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/aJiB95K.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Ação / Terror</genre>
+ <fanart>https://i.imgur.com/aJiB95K.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Wes é um lutador de artes marciais aposentado que recebe uma proposta milionária para um torneio especial em Mianmar. Ao chegar, descobre que foi vítima de uma armadilha, pois agora é alvo de ricaços em uma caçada humana sádica. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+ <item> 
  <title>[B][COLOR white]Kings - Los Angeles em Chamas -[COLOR red]Lançamento[COLOR red](2022) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5296ce9b844a13bd8ee882cd0d130fc26bd9a87a$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5296ce9b844a13bd8ee882cd0d130fc26bd9a87a$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
