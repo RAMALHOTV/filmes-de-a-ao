@@ -1,4 +1,14 @@
  <item> 
+ <title>[B][COLOR white]Bata Antes de Entrar- [COLOR red]Lançamento[COLOR red](2015) [/COLOR][/B]</title>
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88FAD9482F931D5337D0618DD55B1F3E54F5F544$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470F9AEB9DB06E5914E35B00A2644607A0949B8D$nome=[COLOR lime]720 P[/COLOR] - DUBLADO</link> 
+ <thumbnail>https://i.imgur.com/r4ahv9Q.jpg</thumbnail>
+ <genre>[B][COLOR firebrick]Policial / Suspense</genre>
+ <fanart>https://i.imgur.com/r4ahv9Q.jpg</fanart>
+ <info>[B][COLOR red] SINOPSE:Em uma noite chuvosa, duas belas mulheres batem à porta de Evan Webber (Keanu Reeves). Ele está sozinho em casa, já que a esposa e filho estão viajando. Não demora muito para que ambas o seduzam, tendo uma noite de amor com ele. Só que, no dia seguinte, elas passam a persegui-lo implacavelmente. [COLOR red][/COLOR][/B]</info>	
+ </item> 
+
+<item> 
  <title>[B][COLOR white]A Noite nos Persegue -[COLOR red]Lançamento[COLOR red](2020) [/COLOR][/B]</title>
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4C8A6EB34005570C77C94EE09EC1B2C1997A541$nome=[COLOR lime]1080P [/COLOR] - DUBLADO</link> 
  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:454F932DCD6ADE8D2632EA982A4E70CEBCD8AB98$nome=[COLOR lime]720P  [/COLOR] - DUBLADO</link> 
